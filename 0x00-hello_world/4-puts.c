@@ -2,8 +2,9 @@
 
 
 /**
- * main - main block
- * return: 0
+ * main - Entry point
+ *
+ * return:always 0 (success)
  */
 
 int main(void)
