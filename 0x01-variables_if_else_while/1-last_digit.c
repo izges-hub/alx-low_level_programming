@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <iostd.h>
+#include <stdio.h>
 /**
  *  main - Entry point
  *  Description: the program's description
